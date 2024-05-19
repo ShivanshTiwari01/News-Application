@@ -31,8 +31,8 @@ Make sure you have the following installed:
 
 ## Run the application:
 
-  flask run
-  The application will be available at http://127.0.0.1:5000.
+ - flask run
+ - The application will be available at http://127.0.0.1:5000.
 
 ## Frontend
   The frontend of the application is built using HTML and Bootstrap CSS for a responsive and modern design.
