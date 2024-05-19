@@ -31,7 +31,7 @@ Make sure you have the following installed:
 
 ## Run the application:
 
- - flask run
+ - Use flask run or python app.py to run the server.
  - The application will be available at http://127.0.0.1:5000.
 
 ## Frontend
