@@ -21,14 +21,9 @@ Make sure you have the following installed:
 
 ### Installation
 
- **Clone the repository or download it and unzip it**
- 
- Create a virtual environment:
-
-   python -m venv venv
-   Activate the virtual environment:
-
-   source venv/bin/activate
+ - Clone the repository or download it and unzip it
+ - Create a virtual environment: python -m venv venv
+ - Activate the virtual environment: source venv/bin/activate
 
 ## Install the dependencies:
 
