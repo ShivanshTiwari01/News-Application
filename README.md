@@ -21,24 +21,14 @@ Make sure you have the following installed:
 
 ### Installation
 
-1. **Clone the repository:**
-   git clone https://github.com/yourusername/flask-news-app.git
-   cd flask-news-app
-   Create a virtual environment:
+ **Clone the repository or download it and unzip it**
+ 
+ Create a virtual environment:
 
    python -m venv venv
    Activate the virtual environment:
 
-On Windows:
-
-sh
-Copy code
-venv\Scripts\activate
-On macOS/Linux:
-
-sh
-Copy code
-source venv/bin/activate
+   source venv/bin/activate
 
 ## Install the dependencies:
 
