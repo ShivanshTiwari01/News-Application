@@ -1,4 +1,4 @@
-# Flask News Application
+# Python Flask News Application
 
 This is a simple news application built with Flask and NewsAPI. The application fetches the latest news articles from various sources and displays them in a user-friendly interface.
 
